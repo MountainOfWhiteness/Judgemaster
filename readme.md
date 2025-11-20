@@ -20,8 +20,8 @@ Judgemaster is a free tool for scoring boxing matches on your Android device. It
 ## Screenshots
 
 <div align="center">
-  <img src="Screenshot_2025-11-20-00-45-10-43_e254912621de4d2dbf821b769a688f73.jpg" width="30%" alt="Home Screen">
-  <img src="Snapchat-261065235.jpg" width="30%" alt="Fight Setup">
+  <img src="homescreen.png" width="30%" alt="Home Screen">
+  <img src="fightscore.png" width="30%" alt="Fight Setup">
 </div>
 
 ## Installation
